@@ -1,11 +1,16 @@
 /* Mobile */
 
 header {
-    color: #0b1c51;
+    background-color: #0b1c51;
+    margin-bottom: 40px;
 }
 
 header h1 {
     font-size: 52;
+}
+
+header nav ul li a {
+    font-family: 'Montserrat';
 }
 
 /* Desktop */
