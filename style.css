@@ -39,3 +39,10 @@ header nav ul li:last-child a {
 
 /* Desktop */
 
+@media all and (min-width: 600px) {
+    header {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 30px;
+    }
+}
