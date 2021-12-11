@@ -22,8 +22,13 @@ header nav ul {
     list-style: none;
 }
 
-header nav ul li a {
+header nav ul li {
     font-family: 'Montserrat';
+}
+
+header nav ul li a {
+    text-decoration: none;
+    margin: 0 20px 0 0;
 }
 
 /* Desktop */
