@@ -11,6 +11,11 @@ header h1 {
     padding-top: 20px;
 }
 
+header nav {
+    display: flex;
+    justify-content: center;
+}
+
 header nav ul li a {
     font-family: 'Montserrat';
 }
