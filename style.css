@@ -6,6 +6,7 @@ header {
 }
 
 header h1 {
+    color: #ffffff;
     font-size: 52;
     text-align: center;
     padding-top: 20px;
@@ -27,8 +28,13 @@ header nav ul li {
 }
 
 header nav ul li a {
+    color: #ffffff;
     text-decoration: none;
     margin: 0 20px 0 0;
+}
+
+header nav ul li:last-child a {
+    margin-right: 0;
 }
 
 /* Desktop */
