@@ -45,4 +45,9 @@ header nav ul li:last-child a {
         justify-content: space-between;
         padding: 0 30px;
     }
+
+    header h1 {
+        margin: 14px 0;
+        padding-top: 0;
+    }
 }
